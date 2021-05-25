@@ -384,26 +384,32 @@ img {
 }
 
 .fig1 {
+    color: var(--dark-color);
     text-align: center;
 }
 
 .fig2 {
+    color: var(--dark-color);
     text-align: center;
 }
 
 .fig3 {
+    color: var(--dark-color);
     text-align: center;
 }
 
 .fig4 {
+    color: var(--dark-color);
     text-align: center;
 }
 
 .fig5 {
+    color: var(--dark-color);
     text-align: center;
 }
 
 .fig6 {
+    color: var(--dark-color);
     text-align: center;
 }
 
@@ -485,6 +491,10 @@ img {
 
 .footer__social:hover {
     color: var(--first-color);
+}
+
+.footer__copy {
+    text-align: center;
 }
 
 
