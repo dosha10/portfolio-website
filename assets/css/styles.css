@@ -493,6 +493,10 @@ img {
     color: var(--first-color);
 }
 
+.footer__copy {
+    text-align: center;
+}
+
 
 /* ===== MEDIA QUERIES =====*/
 
