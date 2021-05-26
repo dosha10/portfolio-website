@@ -385,14 +385,32 @@ img {
 
 .fig1 {
     text-align: center;
+    color: var(--dark-color);
 }
 
 .fig2 {
     text-align: center;
+    color: var(--dark-color);
 }
 
 .fig3 {
     text-align: center;
+    color: var(--dark-color);
+}
+
+.fig4 {
+    text-align: center;
+    color: var(--dark-color);
+}
+
+.fig5 {
+    text-align: center;
+    color: var(--dark-color);
+}
+
+.fig6 {
+    text-align: center;
+    color: var(--dark-color);
 }
 
 
